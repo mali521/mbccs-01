@@ -35,7 +35,9 @@ div#header{
 
 }
 h1,h3,h4,h5,h6{
-	color: #00308F;
+	color: #008001;
+	text-align: left;
+	font-size: 350%;
 }
 
 div#header div#logo{
@@ -65,9 +67,9 @@ div#header div#name img{
 
 div#navigation{
 	/*height: 100px;*/
-	background-color: #FE0115;
+	background-color: #00308F;
 	margin: 0px;
-	font-size: 12px;
+	font-size: 14px;
 	border-top: solid 1px #d6f0d3;
 	border-bottom: solid 1px #d6f0d3;
 }
@@ -114,7 +116,7 @@ div#navigation ul li a{
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: #00308F;
+	color: white;
 	font-weight: bold;
 }
 div#navigation ul li:hover ul{
@@ -122,10 +124,10 @@ div#navigation ul li:hover ul{
 }
 
 div#navigation a:hover{
-color: white;
+color: pink;
 }
 div#navigation ul li:hover > a{
-	color: white;
+	color: pink;
 }
 
 
@@ -353,7 +355,9 @@ div#header{
 
 }
 h1,h3,h4,h5,h6{
-	color: #00308F;
+	color: #008001;
+	text-align: left;
+	font-size: 350%;
 }
 
 div#header div#logo{
@@ -385,7 +389,7 @@ div#header div#name img{
 
 div#navigation{
 	/*height: 100px;*/
-	background-color: #FE0115;
+	background-color: #00308F;
 	margin: 0px;
 	font-size: 10px;
 	border-top: solid 1px #d6f0d3;
@@ -417,7 +421,7 @@ div#navigation ul ul li {
 width: 100%;
 line-height: 300%;
 border-top: 1px solid white;
-background-color: #FE0115;
+background-color: #00308F;
 opacity: 0.9;
 z-index: 20;
 }
@@ -434,7 +438,7 @@ div#navigation ul li a{
 	display: block;
 	text-align: center;
 	text-decoration: none;
-	color: #00308F;
+	color: white;
 	font-weight: bold;
 }
 div#navigation ul li:hover ul{
@@ -442,10 +446,10 @@ div#navigation ul li:hover ul{
 }
 
 div#navigation a:hover{
-color: white;
+color: pink;
 }
 div#navigation ul li:hover > a{
-	color: white;
+	color: pink;
 }
 
 
@@ -519,7 +523,7 @@ div#content{
 background-color:#dfebdd;
 margin: 0px;
 padding: 5%;
-font-size: 12px;
+font-size: 14px;
 }
 
 
@@ -535,7 +539,7 @@ div#content div#intro{
 
 div#content div#imagebox{
 	/*height: 100px;*/
-	width: 32%;
+	width: 63%;
 	/*background-color: gray;*/
 	float: right;
 }
@@ -552,7 +556,7 @@ div#footer{
 background-color: #00308F;
 margin: 0px;
 padding: 2%;
-font-size: 12px;
+font-size: 14px;
 }
 div#footer h2{
 	color:#ffffff;
@@ -669,7 +673,9 @@ div#header{
 
 }
 h1,h3,h4,h5,h6{
-	color: #00308F;
+	color: #008001;
+	text-align: left;
+	font-size: 350%;
 }
 
 div#header div#logo{
@@ -758,10 +764,10 @@ div#navigation ul li:hover ul{
 }
 
 div#navigation a:hover{
-color: white;
+color: pink;
 }
 div#navigation ul li:hover > a{
-	color: white;
+	color: pink;
 }
 
 
@@ -850,7 +856,7 @@ div#content div#intro{
 
 div#content div#imagebox{
 	/*height: 100px;*/
-	width: 32%;
+	width: 75%;
 	/*background-color: gray;*/
 	float: right;
 }
@@ -989,7 +995,9 @@ div#header{
 
 }
 h1,h3,h4,h5,h6{
-	color: #00308F;
+	color: #008001;
+	text-align: left;
+	font-size: 350%;
 }
 
 div#header div#logo{
@@ -1110,12 +1118,12 @@ div#navigation ul li:hover ul{
 
 div#navigation ul li:hover > a{
 	color: #00308F;
-	background-color:white;
+	background-color:pink;
 }
 
 div#navigation a#bar:hover{
 color: #00308F;
-background-color: white;
+background-color: pink;
 }
 div#slider{
 /*height: 500px;*/
@@ -1203,7 +1211,7 @@ div#content div#intro{
 
 div#content div#imagebox{
 	/*height: 100px;*/
-	width: 32%;
+	width: 90%;
 	/*background-color: gray;*/
 	float: right;
 	margin-top: 5%
@@ -1229,7 +1237,7 @@ word-spacing: .6px;
 }
 div#footermobile li{
 	list-style-type:none;
-	text-align: center; 
+	text-align: center;
 
 }
 div#footermobile i{
