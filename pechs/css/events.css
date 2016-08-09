@@ -7,7 +7,7 @@
 
 body{
 margin:0;
-/*background-color:#FE0115;*/
+/*background-color:#028002;*/
 background-image: url("../images/bgp.jpg");
 color: #dfebdd;
 padding: 0;
@@ -26,18 +26,18 @@ box-shadow: 0px 0px 15px black;
 div#header{
 
 	/*height: 300px;*/ 
-	background-color:#FE0115; 
+	background-color:#028002; 
 	margin: 0px;
 	padding: 5%;
 	
 }
 h1,h3,h4,h5,h6{
-	color: #00308F;
+	color: #028002;
 }
 
 div#header div#logo{
 width: 15%;
-/*background-color: #00308F;*/
+/*background-color: #028002;*/
 float: left;
 }
 
@@ -64,7 +64,7 @@ div#header div#name img{
 
 div#navigation{
 	/*height: 100px;*/
-	background-color: #00308F;
+	background-color: #222222;
 	margin: 0px;
 	font-size: 14px;
 	font-family: Arial;
@@ -97,7 +97,7 @@ div#navigation ul ul li {
 width: 100%;
 line-height: 300%;
 border-top: 1px solid white;
-background-color: #FE0115;
+background-color: #222222;
 opacity: 0.9;
 z-index: 20;
 }
@@ -122,10 +122,10 @@ div#navigation ul li:hover ul{
 }
 
 div#navigation a:hover{
-color: pink;
+color: yellow;
 }
 div#navigation ul li:hover > a{
-	color: pink;
+	color: yellow;
 }
 
 
@@ -142,7 +142,7 @@ line-height: 1.5;
 div#content div.facility{
 width:100%;
 margin-bottom:4%;
-color:#00308F;
+color:#028002;
 }
 
 div#content div.facility div.image{
@@ -172,7 +172,7 @@ padding-left:4%;
 
 div#footer{
 /*height: 300px;*/
-background-color: #00308F;
+background-color: #028002;
 margin: 0px;
 padding: 2%;
 font-family: Arial;
@@ -277,7 +277,7 @@ div#footermobile{
 
 body{
 margin:0;
-/*background-color:#FE0115;*/
+/*background-color:#028002;*/
 background-image: url("../images/bgp.jpg");
 color: #dfebdd;
 margin-top: 30px;
@@ -294,18 +294,18 @@ box-shadow: 0px 0px 15px black;
 div#header{
 
 	/*height: 300px;*/ 
-	background-color:#FE0115; 
+	background-color:#028002; 
 	margin: 0px;
 	padding: 5%;
 	
 }
 h1,h3,h4,h5,h6{
-	color: #00308F;
+	color: #028002;
 }
 
 div#header div#logo{
 width: 15%;
-/*background-color: #00308F;*/
+/*background-color: #028002;*/
 float: left;
 }
 
@@ -332,7 +332,7 @@ div#header div#name img{
 
 div#navigation{
 	/*height: 100px;*/
-	background-color: #00308F;
+	background-color: #222222;
 	margin: 0px;
 	font-size: 10px;
 	font-family: Arial;
@@ -365,7 +365,7 @@ div#navigation ul ul li {
 width: 100%;
 line-height: 300%;
 border-top: 1px solid white;
-background-color: #FE0115;
+background-color: #222222;
 opacity: 0.9;
 z-index: 20;
 }
@@ -390,16 +390,16 @@ div#navigation ul li:hover ul{
 }
 
 div#navigation a:hover{
-color: pink;
+color: yellow;
 }
 div#navigation ul li:hover > a{
-	color: pink;
+	color: yellow;
 }
 
 
 div#footer{
 /*height: 300px;*/
-background-color: #00308F;
+background-color: #028002;
 margin: 0px;
 font-family: Arial;
 padding: 2%;
@@ -502,7 +502,7 @@ div#footermobile{
 
 body{
 margin:0;
-background-color:#FE0115;
+background-color:#028002;
 color: #dfebdd;
 /*margin-top: 30px;*/
 }
@@ -517,18 +517,18 @@ margin: 0 auto;
 div#header{
 
 	/*height: 300px;*/ 
-	background-color:#FE0115; 
+	background-color:#028002; 
 	margin: 0px;
 	padding: 5%;
 	
 }
 h1,h3,h4,h5,h6{
-	color: #00308F;
+	color: #028002;
 }
 
 div#header div#logo{
 width: 15%;
-/*background-color: #00308F;*/
+/*background-color: #028002;*/
 float: left;
 }
 
@@ -555,7 +555,7 @@ div#header div#name img{
 
 div#navigation{
 	/*height: 100px;*/
-	background-color: #00308F;
+	background-color: #222222;
 	margin: 0px;
 	font-size: 7px;
 	font-weight: bold;
@@ -588,7 +588,7 @@ div#navigation ul ul li {
 width: 115%;
 line-height: 300%;
 border-top: 1px solid white;
-background-color:  #00308F;
+background-color:  #222222;
 opacity: 0.9;
 z-index: 20;
 }
@@ -613,16 +613,16 @@ div#navigation ul li:hover ul{
 }
 
 div#navigation a:hover{
-color: pink;
+color: yellow;
 }
 div#navigation ul li:hover > a{
-	color: pink;
+	color: yellow;
 }
 
 
 div#footer{
 /*height: 300px;*/
-background-color: #00308F;
+background-color: #028002;
 margin: 0px;
 	font-family: Arial;
 padding: 2%;
@@ -724,7 +724,7 @@ display: none;}
 
 body{
 margin:0;
-/*background-color:#FE0115;*/
+/*background-color:#028002;*/
 color: #dfebdd;
 padding: 0;
 /*margin-top: 30px;*/
@@ -741,7 +741,7 @@ margin: 0 auto;
 div#header{
 
 	/*height: 300px;*/ 
-	background-color:#FE0115; 
+	background-color:#028002; 
 	margin: 0px;
 	padding: 3%;
 	margin-top: 3%;
@@ -749,12 +749,12 @@ div#header{
 	
 }
 h1,h3,h4,h5,h6{
-	color: #00308F;
+	color: #028002;
 }
 
 div#header div#logo{
 width: 40%;
-/*background-color: #00308F;*/
+/*background-color: #028002;*/
 /*float: left;*/
 margin: 0 auto;
 }
@@ -783,7 +783,7 @@ div#header div#name img{
 
 div#navigation{
 	/*height: 100px;*/
-	background-color: #FE0115;
+	background-color: #222222;
 	margin: 0px;
 	font-size: 11px;
 	/*border-top: solid 1px #d6f0d3;
@@ -823,7 +823,7 @@ div#navigation #hamburger{
 	
 }
 div#navigation #bar{
-background-color: #00308F;
+background-color: #222222;
 height: 30px;
 
 color: white;
@@ -837,7 +837,7 @@ line-height: 30px;
 width: 100%;
 height: 30px;
 border-top: 1px solid white;
-background-color: #FE0115;
+background-color: #222222;
 opacity: 0.9;
 z-index: 20;
 }
@@ -857,9 +857,9 @@ div#navigation ul li a{
 	text-align: center;
 	text-decoration: none;
 	color: white;
-	background-color: #00308F;
-	border-top: 1px solid #00308F;
-	border-bottom: 1px solid #00308F;
+	background-color: #222222;
+	border-top: 1px solid #222222;
+	border-bottom: 1px solid #222222;
 	font-weight: bold;
 	border-radius: 4px;
 }
@@ -869,13 +869,13 @@ div#navigation ul li:hover ul{
 
 
 div#navigation ul li:hover > a{
-	color: #00308F;
-	background-color:pink;
+	color: #222222;
+	background-color:yellow;
 }
 
 div#navigation a#bar:hover{
-color: #00308F;
-background-color: pink;
+color: #222222;
+background-color: yellow;
 }
 
 
@@ -883,7 +883,7 @@ div#footer{
 	display: none;
 }
 div#footermobile{
-	background-color: #00308F;
+	background-color: #028002;
 margin: 0px;
 padding: 2%;
 font-size: 11px;
