@@ -24,6 +24,12 @@ box-shadow: 0px 0px 15px black;
 
 }
 
+div#success{
+	font-family: cursive;
+	text-align: center;
+	font-size: 220%;
+}
+
 div#header{
 
 	/*height: 300px;*/
@@ -200,7 +206,7 @@ div#content{
 background-color:#dfebdd;
 margin: 0px;
 padding: 5%;
-font-size: 15px;
+font-size: 13px;
 }
 
 
@@ -268,7 +274,7 @@ width:200px;
 background-color: white;*/
 float: left;
 padding-right: 3%;
-padding-left: 2%;
+padding-left: 5%;
 }
 div#footer div#administration ul{
 /*list-style-type: none;*/
@@ -284,32 +290,69 @@ color: #dfebdd;
 transition:margin-left .2s;
 }
 div#footer div#address{
-	width: 45%;
-/*height: 300px;
-width:200px;
-background-color: white;*/
-float: left;
-padding-left: 2%;
-}
-div#footer div#address ul{
-list-style-type: none;
-padding: 0px;
-margin: 0px;
-}
-div#footer div#address ul li{
-line-height: 140%;
-}
-div#footer a:hover{
-margin-left: 3px;
-transitiona:all .2s;
+	 width: 45%;
+	 /*height: 300px;
+    width:200px;
+    background-color: white;*/
+	 float: left;
+	 padding-left: 5%;
+ }
+	div#footer div#address ul{
+		list-style-type: none;
+		padding: 0px;
+		margin: 0px;
+	}
+	div#footer div#address ul li{
+		line-height: 140%;
+	}
+	div#footer a:hover{
+		margin-left: 3px;
+		transitiona:all .2s;
 
-}
-div#footer div#address ul li span{
+	}
+	div#footer div#address ul li span{
 
-padding-right: 24px;
-width: 08px;
+		padding-right: 24px;
+		width: 08px;
 
-}
+	}
+
+
+
+	div#footer div#sociallink{
+		width: 45%;
+		/*height: 300px;
+        width:200px;
+        background-color: white;*/
+		float: left;
+		padding-left: 5%;
+	}
+	div#footer div#sociallink ul{
+		list-style-type: none;
+		padding: 0px;
+		margin: 0px;
+	}
+	div#footer div#sociallink ul li{
+		line-height: 140%;
+	}
+	div#footer a:hover{
+		margin-left: 3px;
+		transitiona:all .2s;
+
+	}
+	div#footer div#sociallink ul li span{
+
+		padding-right: 24px;
+		width: 08px;
+
+	}
+
+	div#footer div#sociallink ul li a{
+		color: #dfebdd;
+	}
+
+
+
 div#footer div#administration i{
 	padding-right: 24px;
 width: 08px;
@@ -337,6 +380,11 @@ background-image: url("../images/bgp.jpg");
 color: #dfebdd;
 margin-top: 30px;
 }
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 170%;
+	}
 
 div#main{
 width: 90%;
@@ -523,7 +571,7 @@ div#content{
 background-color:#dfebdd;
 margin: 0px;
 padding: 5%;
-font-size: 14px;
+font-size: 11px;
 }
 
 
@@ -591,7 +639,7 @@ width:200px;
 background-color: white;*/
 float: left;
 padding-right: 3%;
-padding-left: 2%;
+padding-left: 5%;
 }
 div#footer div#administration ul{
 /*list-style-type: none;*/
@@ -612,7 +660,7 @@ div#footer div#address{
 width:200px;
 background-color: white;*/
 float: left;
-padding-left: 2%;
+padding-left: 5%;
 }
 div#footer div#address ul{
 list-style-type: none;
@@ -633,6 +681,43 @@ padding-right: 24px;
 width: 08px;
 
 }
+
+	div#footer div#sociallink{
+		width: 45%;
+		/*height: 300px;
+        width:200px;
+        background-color: white;*/
+		float: left;
+		padding-left: 5%;
+	}
+	div#footer div#sociallink ul{
+		list-style-type: none;
+		padding: 0px;
+		margin: 0px;
+	}
+	div#footer div#sociallink ul li{
+		line-height: 140%;
+	}
+	div#footer a:hover{
+		margin-left: 3px;
+		transitiona:all .2s;
+
+	}
+	div#footer div#sociallink ul li span{
+
+		  padding-right: 24px;
+		  width: 08px;
+
+	  }
+
+	div#footer div#sociallink ul li a{
+
+		color : #dfebdd;
+
+	}
+
+
+
 div#footer div#administration i{
 	padding-right: 24px;
 width: 08px;
@@ -663,6 +748,12 @@ margin: 0 auto;
 /*background-color: white;*/
 
 }
+
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 110%;
+	}
 
 div#header{
 
@@ -840,7 +931,7 @@ div#content{
 background-color:#dfebdd;
 margin: 0px;
 padding: 5%;
-font-size: 9px;
+font-size: 7px;
 }
 
 
@@ -908,7 +999,7 @@ width:200px;
 background-color: white;*/
 float: left;
 padding-right: 3%;
-padding-left: 2%;
+padding-left: 5%;
 }
 div#footer div#administration ul{
 /*list-style-type: none;*/
@@ -929,7 +1020,7 @@ div#footer div#address{
 width:200px;
 background-color: white;*/
 float: left;
-padding-left: 2%;
+padding-left: 5%;
 }
 div#footer div#address ul{
 list-style-type: none;
@@ -950,7 +1041,44 @@ padding-right: 24px;
 width: 08px;
 
 }
-div#footer div#administration i{
+
+
+
+	div#footer div#sociallink{
+		width: 45%;
+		/*height: 300px;
+        width:200px;
+        background-color: white;*/
+		float: left;
+		padding-left: 5%;
+	}
+	div#footer div#sociallink ul{
+		list-style-type: none;
+		padding: 0px;
+		margin: 0px;
+	}
+	div#footer div#sociallink ul li{
+		line-height: 140%;
+	}
+	div#footer a:hover{
+		margin-left: 3px;
+		transitiona:all .2s;
+
+	}
+	div#footer div#sociallink ul li span{
+
+		padding-right: 24px;
+		width: 08px;
+
+	}
+
+	div#footer div#sociallink ul li a{
+		color: #dfebdd;
+	}
+
+
+
+	div#footer div#administration i{
 	padding-right: 24px;
 width: 08px;
 display: none;
@@ -983,7 +1111,11 @@ margin: 0 auto;
 /*background-color: white;*/
 
 }
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 80%;
+	}
 div#header{
 
 	/*height: 300px;*/
@@ -1192,10 +1324,11 @@ div#slider img{
 
 div#content{
 /*height: 400px;*/
+
 background-color:#dfebdd;
 margin: 0px;
 padding: 5%;
-font-size: 09px;
+font-size: 6px;
 }
 
 
@@ -1211,13 +1344,13 @@ div#content div#intro{
 
 div#content div#imagebox{
 	/*height: 100px;*/
-	width: 90%;
+	width: 60%;
 	/*background-color: gray;*/
 	float: right;
 	margin-top: 5%
 }
 div#content img{
-	height: 120px;
+	height: 70px;
 	width: 100%
 
 }

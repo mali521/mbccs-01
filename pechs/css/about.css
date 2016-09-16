@@ -48,7 +48,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name{
 	/*height: 50px;*/
@@ -308,7 +312,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name{
 	/*height: 50px;*/
@@ -424,7 +432,11 @@ div#content div.contentbox div.image img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#footer{
 /*height: 300px;*/
@@ -561,7 +573,11 @@ width: 15%;
 float: left;
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#logo img{
 	width: 100%
@@ -829,7 +845,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name {
 	/*height: 50px;*/

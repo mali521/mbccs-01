@@ -48,7 +48,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name{
 	/*height: 50px;*/
@@ -316,7 +320,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name{
 	/*height: 50px;*/
@@ -539,7 +547,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name{
 	/*height: 50px;*/
@@ -766,7 +778,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name {
 	/*height: 50px;*/

@@ -48,7 +48,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name{
 	/*height: 50px;*/
@@ -343,7 +347,11 @@ div#header div#name img{
 	width: 100%
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#navigation{
 	/*height: 100px;*/
@@ -610,7 +618,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name{
 	/*height: 50px;*/
@@ -889,7 +901,11 @@ div#header div#logo img{
 
 }
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 div#header div#name {
 	/*height: 50px;*/

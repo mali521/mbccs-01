@@ -51,7 +51,11 @@
 
 	}
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 	div#header div#name{
 		/*height: 50px;*/
@@ -362,7 +366,11 @@
 		float: left;
 	}
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 	div#header div#logo img{
 		width: 100%
@@ -685,7 +693,11 @@
 
 	}
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 	div#header div#name{
 		/*height: 50px;*/
@@ -1006,7 +1018,11 @@
 
 	}
 
-
+	div#success{
+		font-family: cursive;
+		text-align: center;
+		font-size: 220%;
+	}
 
 	div#header div#name {
 		/*height: 50px;*/
